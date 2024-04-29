@@ -588,7 +588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnedObject: {fileID: 1545399003944202151, guid: 280093bf429d5f2448130be3337d3b90, type: 3}
-  _startObjectsDelay: 2
+  _startObjectsDelay: 3
   _ultimateObjectsDelay: 0.5
   _delayStep: 0.1
 --- !u!4 &1116005592
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d51236ac0f4b654688c103e2bdc6039, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  randomRadius: 2
+  randomRadius: 3
 --- !u!1 &1165090854
 GameObject:
   m_ObjectHideFlags: 0
