@@ -37,6 +37,6 @@ public class Target : MonoBehaviour
     private void UpdateText()
     {
         if (_text != null)
-            _text.text = _points.ToString();
+            _text.text = $"{_points} нервных клеток Арсения";
     }
 }
